@@ -136,12 +136,6 @@
       "entry_date": "2026-05-27",
       "entry_price": 493.44,
       "quantity": 8
-    },
-    {
-      "ticker": "AAPL",
-      "entry_date": "2026-06-17",
-      "entry_price": 313.97,
-      "quantity": 1
     }
   ]
 }
