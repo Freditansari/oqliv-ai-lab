@@ -1,0 +1,132 @@
+Got it — one flat transaction list, one row per lot, no nested lots.
+
+{
+  "portfolios_transactions": [
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-06-16",
+      "entry_price": 2053.50,
+      "quantity": 1
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-05-12",
+      "entry_price": 1424.57,
+      "quantity": 0.5
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-05-12",
+      "entry_price": 1426.13,
+      "quantity": 1
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-05-08",
+      "entry_price": 1455.91,
+      "quantity": 2
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-05-05",
+      "entry_price": 1371.22,
+      "quantity": 1
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-05-01",
+      "entry_price": 1071.78,
+      "quantity": 1
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-05-01",
+      "entry_price": 1070.74,
+      "quantity": 1
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-05-01",
+      "entry_price": 1070.78,
+      "quantity": 1
+    },
+    {
+      "ticker": "SNDK",
+      "entry_date": "2026-04-27",
+      "entry_price": 1023.79,
+      "quantity": 3
+    },
+    {
+      "ticker": "EWY",
+      "entry_date": "2026-05-08",
+      "entry_price": 186.63,
+      "quantity": 10
+    },
+    {
+      "ticker": "EWY",
+      "entry_date": "2026-05-05",
+      "entry_price": 173.48,
+      "quantity": 10
+    },
+    {
+      "ticker": "EWY",
+      "entry_date": "2026-03-11",
+      "entry_price": 132.29,
+      "quantity": 100
+    },
+    {
+      "ticker": "MU",
+      "entry_date": "2026-06-10",
+      "entry_price": 927.77,
+      "quantity": 4
+    },
+    {
+      "ticker": "MU",
+      "entry_date": "2026-06-04",
+      "entry_price": 999.84,
+      "quantity": 2
+    },
+    {
+      "ticker": "MU",
+      "entry_date": "2026-06-04",
+      "entry_price": 999.36,
+      "quantity": 1
+    },
+    {
+      "ticker": "MU",
+      "entry_date": "2026-06-04",
+      "entry_price": 1014.43,
+      "quantity": 3
+    },
+    {
+      "ticker": "SPCX",
+      "entry_date": "2026-06-12",
+      "entry_price": 159.73,
+      "quantity": 20
+    },
+    {
+      "ticker": "TER",
+      "entry_date": "2026-06-04",
+      "entry_price": 404.88,
+      "quantity": 5
+    },
+    {
+      "ticker": "TER",
+      "entry_date": "2026-06-01",
+      "entry_price": 375.56,
+      "quantity": 10
+    },
+    {
+      "ticker": "AMD",
+      "entry_date": "2026-05-28",
+      "entry_price": 506.30,
+      "quantity": 10
+    },
+    {
+      "ticker": "AMD",
+      "entry_date": "2026-05-27",
+      "entry_price": 493.44,
+      "quantity": 8
+    }
+  ]
+}
