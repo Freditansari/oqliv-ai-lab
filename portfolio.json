@@ -1,6 +1,17 @@
 {
   "portfolios_transactions": [
     {
+
+      "ticker": "QQQ",
+
+      "entry_date": "2026-03-02",
+
+      "entry_price": 609.09,
+
+      "quantity": 1
+
+    },
+    {
       "ticker": "SNDK",
       "entry_date": "2026-06-16",
       "entry_price": 2053.50,
