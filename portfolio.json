@@ -1,5 +1,3 @@
-Got it — one flat transaction list, one row per lot, no nested lots.
-
 {
   "portfolios_transactions": [
     {
